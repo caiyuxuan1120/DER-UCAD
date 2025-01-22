@@ -11,3 +11,8 @@ Then, you can install additional dependencies according to the requirements.txt
 ```
 pip install -r requirements.txt
 ```
+
+# TODO List
+- [ ] Update the complete code for training and evaluation
+- [ ] Update the checkpoints
+- [ ] ...
